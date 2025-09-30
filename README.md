@@ -18,5 +18,5 @@ This project explores:
 - (Optional) `ocd_analysis.qmd` → Quarto/Markdown report
 
 ## Links
-- 📖 [Read the Article on Medium]([https://medium.com/@Danliontario/compulsion-severity-in-ocd-analysis](https://medium.com/@danliontario/compulsion-severity-in-ocd-c36cd3b523c4))  
+- 📖 [Read the Article on Medium](https://medium.com/@danliontario/compulsion-severity-in-ocd-c36cd3b523c4)
 - 💻 [Portfolio Website](https://dlport.web.app/)
