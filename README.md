@@ -23,7 +23,7 @@ Specifically, I investigated:
 - **Predictors**: Compulsion type, depression diagnosis, age, demographics  
 - **Visualizations**: ggplot2  
 
-Full narrative write-up is available on [Medium](https://medium.com/@YOURUSERNAME/compulsion-severity-in-ocd-analysis).  
+Full narrative write-up is available on [Medium](https://medium.com/@danliontario/compulsion-severity-in-ocd-c36cd3b523c4).  
 
 ---
 
